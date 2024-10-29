@@ -58,7 +58,7 @@ Methods:
 - cancelEdit(): Membatalkan mode edit, mengosongkan itemName, dan menghapus status pengeditan.
 - deleteItem(index: number): Menghapus item pada indeks tertentu dari array items.
 
-    import { Component } from '@angular/core';
+import { Component } from '@angular/core';
 
 @Component({
   selector: 'app-folder',
@@ -102,6 +102,7 @@ export class FolderPage {
     this.items.splice(index, 1);
   }
 }
+
 
 Properties:
 - folder: Menyimpan judul halaman ("Item Management").
