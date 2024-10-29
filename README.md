@@ -6,6 +6,6 @@ Shift Baru: B
 ## Penjelasan Code 
 
 ## Screenshot
-![Halaman Registrasi](create.png)
+![Halaman Registrasi](Create.png)
 ![Halaman Login](update.png)
 ![Halaman list ](delete.png)
