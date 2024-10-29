@@ -3,7 +3,7 @@ Nama : Mochamad Gilang Fadil Hakim
 NIM : H1D022082
 
 Shift Baru: B
-## Penjelasan Code 
+## Penjelasan singkat
 
 1. Komponen FolderPage:
 
