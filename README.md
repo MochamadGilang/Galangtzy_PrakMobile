@@ -29,7 +29,6 @@ Fungsi CRUD:
 - Warna biru digunakan pada header dan beberapa elemen untuk tampilan menarik dan konsisten.
 - #container menambahkan padding di sekitar konten utama.
 - ion-item dan ion-list memiliki margin serta padding yang disesuaikan untuk membuat daftar terlihat rapi.
-- 
 ## Screenshot
 
 ## Create
